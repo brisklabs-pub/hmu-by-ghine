@@ -820,12 +820,14 @@ hr {
     font-size: 50px;
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
-    color: #613228;
+    /* color: #613228; */
+    color: white;
 }
 .header .caption p {
     font-size: 18px;
     line-height: 1.75em;
-    color: #000;
+    /* color: #000; */
+    color: white;
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
     margin-right: 15px;
